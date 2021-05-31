@@ -8,7 +8,6 @@
 <img align="left" alt="Typescript" width="30px" src="https://img.icons8.com/color/48/000000/typescript.png" />
 <img align="left" alt="Golang" width="30px" src="https://img.icons8.com/color/48/000000/golang.png" />
 <img align="left" alt="Python" width="30px" src="https://img.icons8.com/color/48/000000/python.png" />
-<img align="left" alt="PHP" width="30px" src="https://img.icons8.com/officel/16/000000/php-logo.png" />
 <br/>
 
 ## Stats
